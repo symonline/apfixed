@@ -1,2 +1,2 @@
-# Welcome to Fixed Investment Manager!
+# Welcome to Fixed Investment Manager(FIM)!
 
